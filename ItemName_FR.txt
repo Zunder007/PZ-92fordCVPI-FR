@@ -2,6 +2,7 @@ ItemName_FR = {
 	ItemName_Base.92fordCVPIBumperFront0 = "92 Ford CVPI Pare-chocs avant",
 	ItemName_Base.92fordCVPIBumperFront1 = "92 Ford CVPI Pare-chocs d'interception",
 	ItemName_Base.92fordCVPIBumperFront2 = "92 Ford CVPI Pare-chocs d'interception Mk2",
+	ItemName_Base.92fordCVPIBumperFront3 = "92 Ford CVPI Pare-chocs d'interception Mk3",
 	ItemName_Base.92fordCVPIBumperRear0 = "92 Ford CVPI Pare-chocs arrière",
 	ItemName_Base.92fordCVPICabBarrier1 = "92 Ford CVPI Grillage intérieur",
 	ItemName_Base.92fordCVPIEngineDoor1 = "92 Ford CVPI Capot",
