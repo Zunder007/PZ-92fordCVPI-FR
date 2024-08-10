@@ -6,6 +6,10 @@ IG_UI_FR = {
 	IGUI_VehicleName92fordCVPI2ksp = "'92 Ford Crown Victoria Police d'état Interceptor",
 	IGUI_VehicleName92fordCVPItaxi = "'92 Ford Crown Victoria Taxi",
 
+	IGUI_VehicleName92fordCV = "'92 Ford Crown Victoria",
+	IGUI_VehicleName92fordCVPI2so = "Le Shérif",
+	IGUI_VehicleName92fordCVPI2sup = "'92 Ford Crown Victoria Superviseur de patrouille",
+
 	IGUI_VehiclePartCVPI92BumperFront = "Pare-chocs avant",
 	IGUI_VehiclePartCVPI92BumperRear = "Pare-chocs arrière",
 	IGUI_VehiclePartCVPI92Barrier = "Grillage intérieur",
